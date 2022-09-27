@@ -20,6 +20,17 @@
   - C (Intermediate)
   - Vpython (beginner)
  
+  <h2>📫 Graphic Design Software</h2>
+  
+  - Cinema 4d (Intermediate)
+  - Octane Render (Intermediate)
+  - Blender (Intermediate)
+  - Adobe Programs
+    - Photoshop (Advance)
+    - Illustrator (Intermediate)
+    - Premier Pro (Expert)
+    - After Effects (Intermediate)
+  
  <h2>🌱 I’m currently learning</h2>
  
  - HTML (For website development)
