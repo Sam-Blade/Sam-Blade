@@ -38,6 +38,13 @@
  - Solidity (Smart Contracts for Ethereum)
  - Ligo (Smart Contracts for Tezos)
  
+  <h2>Links to hire me👨‍💻</h2>
+  
+  👨‍💻  - [SEO](https://www.fiverr.com/bladebrown3/create-an-seo-to-help-grow-your-business-and-rank-on-google)
+  💻  - [Website Building](https://www.fiverr.com/s2/2ff96f6936)
+  🎨 - [Graphic Design](https://www.fiverr.com/bladebrown3/professionally-create-a-flyer-or-customize-logo)
+  👨‍🎨  - [3D Design/Art](https://www.fiverr.com/bladebrown3/turn-your-physical-product-into-a-3d-model-and-nft)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Sam Blade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
