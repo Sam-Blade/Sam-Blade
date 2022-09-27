@@ -15,12 +15,24 @@
  - Bloomberg Market Concepts
  - Fiverr SEO Skill 
  
+ <h2>⚡ Coding Langagues</h2>
+ 
+  - C (Intermediate)
+  - Vpython (beginner)
+ 
+ <h2>🌱 I’m currently learning</h2>
+ 
+ - HTML (For website development)
+ - JavaScript (Just in general, its a powerful langague)
+ - Solidity (Smart Contracts for Ethereum)
+ - Ligo (Smart Contracts for Tezos)
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Sam Blade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [twitter]: https://twitter.com/Sam_Blade_
-
+ 
 <!--
 **Sam-Blade/Sam-Blade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
