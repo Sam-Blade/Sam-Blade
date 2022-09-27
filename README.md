@@ -9,7 +9,7 @@
 - <b> Virtual Web3 Events</b>
   - [NFT Art Gala (The first ever!+ MORE EVENTS)](https://twitter.com/AfroCryptoPunk/status/1538210670327517186?s=20&t=H0RJtSKCbKhHbLJyiY3HGw)
  
- <h2> 📃 Degrees</h2>
+ <h2> 📃 Degrees & Certificates</h2>
  
  - Bachelors of Science - Biomedical Medical Laboratory | Michigan State University 
  - Bloomberg Market Concepts
