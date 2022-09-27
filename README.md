@@ -7,13 +7,13 @@
 - <b> Web3 Research & Development (Wallet recovery, Common Scams, research resources)</b>
   - [Research related to web3 security](https://afrocryptopunks.com/research-development/) <b><i>(For Research & Education purposes only)</b></i>
 - <b> Virtual Web3 Events</b>
-  - [NFT Art Gala (The first ever!)](https://twitter.com/AfroCryptoPunk/status/1538210670327517186?s=20&t=H0RJtSKCbKhHbLJyiY3HGw)
+  - [NFT Art Gala (The first ever!+ MORE EVENTS)](https://twitter.com/AfroCryptoPunk/status/1538210670327517186?s=20&t=H0RJtSKCbKhHbLJyiY3HGw)
  
  <h2> 📃 Degrees</h2>
  
  - Bachelors of Science - Biomedical Medical Laboratory | Michigan State University 
  - Bloomberg Market Concepts
- -Fiverr SEO Skill 
+ - Fiverr SEO Skill 
  
 <h2> 🤳 Connect with me:</h2>
 
@@ -22,7 +22,7 @@
 [twitter]: https://twitter.com/Sam_Blade_
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sam-Blade/Sam-Blade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
