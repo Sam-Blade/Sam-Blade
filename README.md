@@ -8,6 +8,7 @@
   - [Research related to web3 security](https://afrocryptopunks.com/research-development/) <b><i>(For Research & Education purposes only)</b></i>
 - <b> Virtual Web3 Events</b>
   - [NFT Art Gala (The first ever!+ MORE EVENTS)](https://twitter.com/AfroCryptoPunk/status/1538210670327517186?s=20&t=H0RJtSKCbKhHbLJyiY3HGw)
+  - [NFTs Around the World ](https://twitter.com/Sam_Blade_/status/1438849224741904390?s=20&t=4gLz5NjoZ9VXk8emEEhuFg)
  
  <h2> 📃 Degrees & Certificates</h2>
  
