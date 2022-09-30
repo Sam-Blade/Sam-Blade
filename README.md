@@ -13,7 +13,6 @@
  <h2> 📃 Degrees & Certificates</h2>
  
  - Bachelors of Science - Biomedical Medical Laboratory | Michigan State University 
- - Bloomberg Market Concepts
  - Fiverr SEO Skill 
  
  <h2>⚡ Coding Langagues</h2>
